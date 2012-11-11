@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Exhange Rate</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Currency converter</string>
+    <string name="resultsView"></string>
+    <string name="fromPrompt">From currency</string>
+    <string name="toPrompt">To currency</string>
+    <string-array name="fromSpinner">
+    </string-array>
+    <string-array name="toSpinner">
+    </string-array>
+    <string name="convertBtn">Convert</string>
+
+</resources>
